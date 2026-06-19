@@ -73,7 +73,3 @@ curl -X POST http://127.0.0.1:8000/api/books \
   -H "Content-Type: application/json" \
   -d '{"title": "Clean Code", "author": "Robert C. Martin", "total_copies": 3}'
 ```
-
-## License
-
-MIT
